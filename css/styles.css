@@ -1,0 +1,56 @@
+html, body {
+	background-color: #f5f5f5;
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: "Lucida Grande", Helvetica, Verdana, sans-serif;
+	color: #5f5f5f;
+}
+
+#container {
+  opacity: 1;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  margin: -121px 0 0 0;
+	display: block;
+}
+
+#card {
+  background: #ffffff;
+  width: 650px;
+  height: 208px;
+  padding: 0px;
+  margin: 0 auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#photo {
+  width: 208px;
+  height: 208px;
+  border: none;
+  float: left;
+}
+
+#info {
+  float: right;
+  padding: 20px;
+  width: 402px;
+}
+
+#info h1 {
+  font-size: 32px;
+	text-align: left;
+	font-family: "Maven Pro", "Lucida Grande", Helvetica, Verdana, sans-serif;
+}
+
+#contact li {
+	display: inline-block;
+	padding: 0 10px;
+	border-right: 1px solid #ccc;
+}
+
+#contact li:last-child {
+	border-right: none;
+}
