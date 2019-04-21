@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: prouast.github.io
+Token: 15dc030507f852287020a549121bf7d7b8ed502719a35dd920e620e62d01b607
